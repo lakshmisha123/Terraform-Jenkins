@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label "172.31.1.78"
+        label "65.1.111.249"
     }
 
     parameters {
